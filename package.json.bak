@@ -1,0 +1,40 @@
+{
+  "name": "base-md",
+  "version": "1.0.0",
+  "description": "jerfinho",
+  "main": "base.js",
+  "scripts": {
+  "test": "node base"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "pino": "^7.11.0",
+    "fs": "^0.0.1-security",
+    "cfonts": "^2.10.1",
+    "moment-timezone": "^0.5.34",
+    "performance-now": "^2.1.0",
+    "spinnies": "^0.3.2",
+    "yt-search": "^2.10.4",
+    "@whiskeysockets/baileys": "6.0.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^0.24.0",
+    "qrcode-terminal": "^0.12.0",
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.9",
+    "file-type": "^16.5.4",
+    "form-data": "^4.0.0",
+    "mime-types": "^2.1.35"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "off"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot"
+  ],
+  "author": "JerfinhoPro"
+}
