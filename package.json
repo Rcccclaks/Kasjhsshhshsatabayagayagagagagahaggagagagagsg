@@ -2,10 +2,10 @@
   "name": "base-md",
   "version": "1.0.0",
   "description": "Ramires",
-  "main": "base.js",
+  "main": "index.js",
   "scripts": {
-  "test": "node base"
-  },
+    "start": "node index.js"
+   },
   "directories": {
     "lib": "lib"
   },
